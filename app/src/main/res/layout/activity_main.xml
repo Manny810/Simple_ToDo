@@ -28,8 +28,7 @@
         android:layout_marginBottom="0dp"
         android:layout_toStartOf="@+id/buttonAdd"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Add an item here!"
+        android:hint="Add an item here!"
         app:layout_constraintEnd_toStartOf="@+id/buttonAdd"
         tools:layout_editor_absoluteY="686dp" />
 
